@@ -1,4 +1,4 @@
-/*Creates the variables for first name, state, temperature, and message
+/*Creates the variables for first name, state, temperature, and messages for the user to input
 let name = prompt("Type your first name")
 let state = prompt ("Insert your states abbreviation (i.e. NE)")
 let temp = prompt("Insert the current temperature in degrees fahrenheit ")
